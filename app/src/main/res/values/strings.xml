@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SensonrSurvey</string>
+    <string name="placeholder">(placeholder)</string>
+    <string name="light_sensor">Light Sensor: %1$.2f</string>
+    <string name="proximity_sensor">Proximity Sensor: %1$.2f</string>
+    <string name="error_no_sensor">No sensor</string>
+</resources>
